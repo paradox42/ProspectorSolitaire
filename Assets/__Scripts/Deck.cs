@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Deck : MonoBehaviour{
     [Header("Set Dynamically")]
-    public PR_XMLReader xMLReader;
+    public PT_XMLReader xMLReader;
 }
