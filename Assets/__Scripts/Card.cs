@@ -29,5 +29,5 @@ public class Decorator {
 public class CardDefinition {
     public string face; 
     public int rank;
-    public List<Decorator> pip = new List<Decorator>();
+    public List<Decorator> pips = new List<Decorator>();
 }
